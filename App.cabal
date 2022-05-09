@@ -11,7 +11,7 @@ name:                App
 version:             0.1.0.0
 -- synopsis:
 -- description:
-license:             AllRightsReserved
+license:             BSD-3
 license-file:        LICENSE
 author:              Developers
 maintainer:          developers@example.com
